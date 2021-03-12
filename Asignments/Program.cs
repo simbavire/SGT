@@ -147,6 +147,28 @@ namespace Asignments
  */
             //Asignment 1.5
             
+            Console.WriteLine("Input your working hours in day: ");
+            int workingHoursInDay = Int32.Parse(Console.ReadLine());
+            //int largerSalary;
+            int hourlyRate = 10;
+            int hourlyRateLarger = 15;
+            //int salary;
+
+            if (workingHoursInDay > 0 && workingHoursInDay <= 8){
+                hourlyRate = 10;
+                int salary = workingHoursInDay * hourlyRate;
+                Console.WriteLine("Your salary is " + salary + " EUR.");
+            }
+            else if (workingHoursInDay >= 8 && workingHoursInDay <= 24){
+                int largerSalary = 8*hourlyRate + (workingHoursInDay - 8) * hourlyRateLarger;
+                Console.WriteLine("Your salary is " + largerSalary + " EUR.");
+                
+            }
+            else
+            {
+               Console.WriteLine("Sorry, try again to input valid value."); 
+            }
+
 
             
         }
