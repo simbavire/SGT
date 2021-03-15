@@ -1,0 +1,5 @@
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Matematiccs\obj\Debug\net5.0\Matematiccs.csprojAssemblyReference.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Matematiccs\obj\Debug\net5.0\Matematiccs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Matematiccs\obj\Debug\net5.0\Matematiccs.AssemblyInfoInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Matematiccs\obj\Debug\net5.0\Matematiccs.AssemblyInfo.cs
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Matematiccs\obj\Debug\net5.0\Matematiccs.csproj.CoreCompileInputs.cache

@@ -131,8 +131,8 @@ namespace Asignments
             int dayNum = Int32.Parse(Console.ReadLine());
             
             if (dayNum > 0 && dayNum <= 31){Console.WriteLine("It is: January");}
-            else if (dayNum > 31 && dayNum <= 59){Console.WriteLine("It is: February");}
-            else if (dayNum > 59 && dayNum <= 90){Console.WriteLine("It is: March");}
+            else if (dayNum > 31 && dayNum <= 59){Console.WriteLine("It is: February");} //or dayNum<=31+28 - do not to write sum
+            else if (dayNum > 59 && dayNum <= 90){Console.WriteLine("It is: March");} // or else if (day <= (sum+=march)) {Console.WriteLine("It is March!");}
             else if (dayNum > 90 && dayNum <= 120){Console.WriteLine("It is: April");}
             else if (dayNum > 120 && dayNum <= 151){Console.WriteLine("It is: May");}
             else if (dayNum > 151 && dayNum <= 181){Console.WriteLine("It is: June");}
@@ -147,15 +147,12 @@ namespace Asignments
  */
             //Asignment 1.5
             
-            Console.WriteLine("Input your working hours in day: ");
+            /* Console.WriteLine("Input your working hours in day: ");
             int workingHoursInDay = Int32.Parse(Console.ReadLine());
-            //int largerSalary;
             int hourlyRate = 10;
             int hourlyRateLarger = 15;
-            //int salary;
 
             if (workingHoursInDay > 0 && workingHoursInDay <= 8){
-                hourlyRate = 10;
                 int salary = workingHoursInDay * hourlyRate;
                 Console.WriteLine("Your salary is " + salary + " EUR.");
             }
@@ -167,10 +164,76 @@ namespace Asignments
             else
             {
                Console.WriteLine("Sorry, try again to input valid value."); 
-            }
+            } */
 
+            /* //This can be solved  also like:
+            Console.Write("How many hours were worked: ");
+            int workedHoursInDay = Int32.Parse(Console.ReadLine());
+
+            if (workedHoursInDay < 0 || workedHoursInDay > 24)
+            {
+                Console.WriteLine("You can't work that many hours a day!");
+            }
+            else
+            {
+                int salary = Math.Min(workedHoursInDay, 8) * 10; // (hours up until 8h) * 10
+                salary += Math.Max(workedHoursInDay - 8, 0) * 15; // (hours more than 8h) * 15
+
+                Console.WriteLine("The salary is " + salary.ToString("0.00") + " EUR.");
+            } */
+            //Assigment 2.1
+/* 
+            Console.Write("What is a day?: ");
+            int dayInWeek = Int32.Parse(Console.ReadLine());
+            
+
+            switch (dayInWeek)
+            {case 1: //if (day ==1)
+            case 2:
+            case 3:
+            case 4:
+            case 5:
+            Console.WriteLine("This is workday.");
+            break;
+            case 6:
+            case 7:
+            Console.WriteLine("This is holiday.");
+            break;
+            default: //else
+            Console.WriteLine("Error");
+            break;
+            } */
+
+
+            //Assignment 2.2
+
+            Console.Write("What is a grade: ");
+            char grade = Char.Parse(Console.ReadLine().ToUpper());
+            
+
+            switch (grade)
+            {
+            case 'A':
+            case 'B':
+            Console.WriteLine("Perfect! You are clever!");
+            break;            
+            case 'C':
+            Console.WriteLine("Thats good.");
+            break;
+            case 'D':
+            case 'E':
+            Console.WriteLine("Its not good.");
+            break;
+            case 'F':
+            Console.WriteLine("Thats a fail.");
+            break;
+            default: //else
+            Console.WriteLine("Error");
+            break;
+            }
 
             
         }
     }
-}
+}}
+
