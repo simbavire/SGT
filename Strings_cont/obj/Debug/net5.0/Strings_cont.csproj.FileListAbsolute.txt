@@ -1,0 +1,16 @@
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.csprojAssemblyReference.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.AssemblyInfoInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.AssemblyInfo.cs
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.csproj.CoreCompileInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.exe
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.deps.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.runtimeconfig.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.runtimeconfig.dev.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\ref\Strings_cont.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\bin\Debug\net5.0\Strings_cont.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\ref\Strings_cont.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Strings_cont\obj\Debug\net5.0\Strings_cont.genruntimeconfig.cache

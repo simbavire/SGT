@@ -1,0 +1,16 @@
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.csprojAssemblyReference.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.AssemblyInfoInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.AssemblyInfo.cs
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.csproj.CoreCompileInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.exe
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.deps.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.runtimeconfig.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.runtimeconfig.dev.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\ref\OOP_assignments.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\bin\Debug\net5.0\OOP_assignments.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\ref\OOP_assignments.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\OOP_assignments\obj\Debug\net5.0\OOP_assignments.genruntimeconfig.cache

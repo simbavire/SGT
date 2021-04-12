@@ -1,0 +1,16 @@
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.exe
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.deps.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.runtimeconfig.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.runtimeconfig.dev.json
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\ref\Data_struct_ass_3.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\bin\Debug\net5.0\Data_struct_ass_3.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.csprojAssemblyReference.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.AssemblyInfoInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.AssemblyInfo.cs
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.csproj.CoreCompileInputs.cache
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\ref\Data_struct_ass_3.dll
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.pdb
+C:\Users\MPP Biedriba\Desktop\Programmesana\NET\simbavireGIT\SGT\Data_struct_ass_3\obj\Debug\net5.0\Data_struct_ass_3.genruntimeconfig.cache
