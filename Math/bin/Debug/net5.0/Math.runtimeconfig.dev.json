@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\MPP Biedriba\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\MPP Biedriba\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
-    ]
-  }
-}
